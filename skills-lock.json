@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "chinese-writing": {
+      "source": "miantiao-me/aigc-weekly",
+      "sourceType": "github",
+      "skillPath": "agent/.opencode/skills/chinese-writing/SKILL.md",
+      "computedHash": "ee49c347183f228a01fc951c7ca81324b1662712945186b955a307fe6f2f624c"
+    },
+    "fantasy-world-building": {
+      "source": "Microck/ordinary-claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills_all/fantasy-world-building/SKILL.md",
+      "computedHash": "652072a4a8321b3daf9ebc43fa8e7cc560efd644043649ce9246e402fe0a9274"
+    },
+    "mystery-novel-conventions": {
+      "source": "Microck/ordinary-claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills_all/mystery-novel-conventions/SKILL.md",
+      "computedHash": "cb65a8bd14750af1c122d0fb24111f78348b0875743a916466a5937bda137b56"
+    },
+    "novelweave-workflow": {
+      "source": "Microck/ordinary-claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills_all/novelweave-workflow/SKILL.md",
+      "computedHash": "4f78c0fe6221ce659a6a7f464778aec3fff55867f800f6b51db3ac11edd37acb"
+    },
+    "pre-write-checklist": {
+      "source": "Microck/ordinary-claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills_all/pre-write-checklist/SKILL.md",
+      "computedHash": "216acdfa6fd710ba2b76d322d4df637ab3b10643e50b61050290a8765a8f8dad"
+    }
+  }
+}
