@@ -124,6 +124,43 @@
       "event": "地痞后颈诡异感染12%（面板扫描）",
       "type": "设定",
       "callback_chapters": []
+    },
+    {
+      "chapter": 2,
+      "event": "面板遮蔽鉴诡仪扫描（94%成功率）",
+      "type": "爽点",
+      "sub_type": "微爽点",
+      "callback_chapters": [22]
+    },
+    {
+      "chapter": 2,
+      "event": "面摊老头初遇",
+      "type": "伏笔",
+      "callback_chapters": [20, 52, 53, 104, 212, 228, 249]
+    },
+    {
+      "chapter": 2,
+      "event": "马六收净化税60灵石/7天",
+      "type": "危机",
+      "callback_chapters": [12]
+    },
+    {
+      "chapter": 2,
+      "event": "马六提及'你爹很识相'",
+      "type": "伏笔",
+      "callback_chapters": [3, 24]
+    },
+    {
+      "chapter": 2,
+      "event": "马六体内低度诡异感染7%（面板扫描未告知）",
+      "type": "设定",
+      "callback_chapters": [20]
+    },
+    {
+      "chapter": 2,
+      "event": "双重死线揭示（净化税+寄生体）",
+      "type": "危机",
+      "callback_chapters": [6, 12, 27]
     }
   ]
 }
