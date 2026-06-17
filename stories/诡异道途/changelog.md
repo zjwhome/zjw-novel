@@ -328,3 +328,6 @@
 ### relationships.json v27.0
 - R11铁蛋扩展：key_chapters从4个增至7个+trust_progression补充
 - R19小石头扩展：首次出场Ch237→Ch53+key_chapters从2个增至5个+notes补充
+
+### tasks.md v67.0
+- 删除Ch1-3章节正文文件，状态从complete重置为pending

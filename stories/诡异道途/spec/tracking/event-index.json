@@ -1,0 +1,129 @@
+{
+  "version": "1.0",
+  "updated": "2026-06-17",
+  "description": "关键事件索引——用于跨章节回调引用",
+  "events": [
+    {
+      "chapter": 1,
+      "event": "诡枢录面板首次激活",
+      "type": "里程碑",
+      "callback_chapters": [52, 104, 170, 249]
+    },
+    {
+      "chapter": 1,
+      "event": "食残诡驱散（首次遭遇）",
+      "type": "生存",
+      "callback_chapters": [5, 6]
+    },
+    {
+      "chapter": 1,
+      "event": "寄生体7天死线揭示",
+      "type": "危机",
+      "callback_chapters": [2, 6, 27]
+    },
+    {
+      "chapter": 1,
+      "event": "铜色机械义眼（右眼）",
+      "type": "设定",
+      "callback_chapters": [2, 3, 22]
+    },
+    {
+      "chapter": 1,
+      "event": "面板版本0.01发现（FS005系统本质埋设）",
+      "type": "伏笔",
+      "callback_chapters": [48, 76, 170, 249]
+    },
+    {
+      "chapter": 1,
+      "event": "面板首次弹出（开箱爽点）",
+      "type": "爽点",
+      "sub_type": "微爽点"
+    },
+    {
+      "chapter": 1,
+      "event": "铜灯驱散食残诡（生存爽点）",
+      "type": "爽点",
+      "sub_type": "微爽点"
+    },
+    {
+      "chapter": 2,
+      "event": "面板遮蔽鉴诡仪扫描（94%成功率）",
+      "type": "爽点",
+      "sub_type": "微爽点",
+      "callback_chapters": [22]
+    },
+    {
+      "chapter": 2,
+      "event": "面摊老头初遇",
+      "type": "伏笔",
+      "callback_chapters": [20, 52, 53, 104, 212, 228, 249]
+    },
+    {
+      "chapter": 2,
+      "event": "马六收净化税60灵石/7天",
+      "type": "危机",
+      "callback_chapters": [12]
+    },
+    {
+      "chapter": 2,
+      "event": "马六提及'你爹很识相'",
+      "type": "伏笔",
+      "callback_chapters": [3, 24]
+    },
+    {
+      "chapter": 2,
+      "event": "马六体内低度诡异感染7%（面板扫描未告知）",
+      "type": "设定",
+      "callback_chapters": [20]
+    },
+    {
+      "chapter": 2,
+      "event": "双重死线揭示（净化税+寄生体）",
+      "type": "危机",
+      "callback_chapters": [6, 12, 27]
+    },
+    {
+      "chapter": 3,
+      "event": "父亲账册发现（交易记录12000灵石）",
+      "type": "信息",
+      "callback_chapters": [24, 36]
+    },
+    {
+      "chapter": 3,
+      "event": "诡异源质·中品获取（130灵石）",
+      "type": "物品",
+      "callback_chapters": [4]
+    },
+    {
+      "chapter": 3,
+      "event": "源质冲击波震退三地痞（打脸爽点）",
+      "type": "爽点",
+      "sub_type": "微爽点",
+      "callback_chapters": [5]
+    },
+    {
+      "chapter": 3,
+      "event": "FS001碎片共振反应首次触发（源质共鸣冲击）",
+      "type": "伏笔",
+      "callback_chapters": [9, 48, 168]
+    },
+    {
+      "chapter": 3,
+      "event": "FS002净化税真相揭示（不是净化是在喂养）",
+      "type": "伏笔",
+      "callback_chapters": [36, 238]
+    },
+    {
+      "chapter": 3,
+      "event": "父亲纸条被源质操控引导去城西",
+      "type": "伏笔",
+      "callback_chapters": [4, 24, 36]
+    },
+    {
+      "chapter": 3,
+      "event": "地痞后颈诡异感染12%（面板扫描）",
+      "type": "设定",
+      "callback_chapters": []
+    }
+  ]
+}
