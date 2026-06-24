@@ -126,41 +126,524 @@
       "callback_chapters": []
     },
     {
-      "chapter": 2,
-      "event": "面板遮蔽鉴诡仪扫描（94%成功率）",
+      "chapter": 4,
+      "event": "钱三初遇（黑市交易/欠炎父一条命）",
+      "type": "角色",
+      "callback_chapters": [7, 12, 101]
+    },
+    {
+      "chapter": 4,
+      "event": "源质晶石出售120灵石（信息差碾压：面板130 vs 钱三报价120）",
       "type": "爽点",
-      "sub_type": "微爽点",
-      "callback_chapters": [22]
+      "sub_type": "微爽点"
     },
     {
-      "chapter": 2,
-      "event": "面摊老头初遇",
+      "chapter": 4,
+      "event": "铜铃婆初遇（铃响一声=生人）",
       "type": "伏笔",
-      "callback_chapters": [20, 52, 53, 104, 212, 228, 249]
+      "callback_chapters": [7, 25, 56]
     },
     {
-      "chapter": 2,
-      "event": "马六收净化税60灵石/7天",
-      "type": "危机",
+      "chapter": 4,
+      "event": "父亲铜罐遗物（甲七巷十七号地址）",
+      "type": "伏笔",
       "callback_chapters": [12]
     },
     {
-      "chapter": 2,
-      "event": "马六提及'你爹很识相'",
-      "type": "伏笔",
-      "callback_chapters": [3, 24]
+      "chapter": 4,
+      "event": "铜械级灵波跟踪（章末钩子）",
+      "type": "危机",
+      "callback_chapters": [5, 7]
     },
     {
-      "chapter": 2,
-      "event": "马六体内低度诡异感染7%（面板扫描未告知）",
+      "chapter": 5,
+      "event": "首次击杀面纱客（A级结算）",
+      "type": "爽点",
+      "sub_type": "A级",
+      "format_variant": "标准结算",
+      "callback_chapters": [6, 10, 52]
+    },
+    {
+      "chapter": 5,
+      "event": "首次模式切换（灵械→诡术士）",
+      "type": "里程碑",
+      "callback_chapters": [9, 10, 52]
+    },
+    {
+      "chapter": 5,
+      "event": "噬源诀激活",
+      "type": "里程碑",
+      "callback_chapters": [6, 9]
+    },
+    {
+      "chapter": 5,
+      "event": "左手小指永久畸变",
+      "type": "设定",
+      "callback_chapters": [7, 11, 22]
+    },
+    {
+      "chapter": 5,
+      "event": "畸变率3%（首次击杀后）",
+      "type": "危机",
+      "callback_chapters": [6, 9, 11, 15]
+    },
+    {
+      "chapter": 5,
+      "event": "FS021比诡异更诡异（首次杀诡后嘴角沾血画面）",
+      "type": "伏笔",
+      "callback_chapters": [104, 243]
+    },
+    {
+      "chapter": 5,
+      "event": "日常任务功能解锁",
+      "type": "里程碑",
+      "callback_chapters": [6]
+    },
+    {
+      "chapter": 5,
+      "event": "面纱客击杀（与Ch4追踪者灵波频率73%相似）",
+      "type": "伏笔",
+      "callback_chapters": [7, 13]
+    },
+    {
+      "chapter": 6,
+      "event": "面纱客源质出售28灵石（瘸子张）",
+      "type": "经济",
+      "callback_chapters": []
+    },
+    {
+      "chapter": 6,
+      "event": "拍卖行信息差捡漏（下品伪造→20灵石收购）",
+      "type": "爽点",
+      "sub_type": "微爽点"
+    },
+    {
+      "chapter": 6,
+      "event": "日常任务首次完成（食残诡击杀）",
+      "type": "里程碑",
+      "callback_chapters": [11]
+    },
+    {
+      "chapter": 6,
+      "event": "食残诡击杀C级结算（灵石×5）",
+      "type": "爽点",
+      "sub_type": "微爽点",
+      "format_variant": "标准结算"
+    },
+    {
+      "chapter": 6,
+      "event": "寄生体活性↑12%，倒计时修正6天",
+      "type": "危机",
+      "callback_chapters": [9, 11, 27]
+    },
+    {
+      "chapter": 7,
+      "event": "面板扫描钱三右手隐疾（握力下降40%，病程超两年）",
+      "type": "爽点",
+      "sub_type": "微爽点",
+      "callback_chapters": [12, 101]
+    },
+    {
+      "chapter": 7,
+      "event": "废矿任务接取（商盟任务牌+商盟垫付净化税60灵石）",
+      "type": "任务",
+      "callback_chapters": [8, 9, 10]
+    },
+    {
+      "chapter": 7,
+      "event": "钱三提及炎父去过废矿（'他活着的时候跟我说过'）",
+      "type": "伏笔",
+      "callback_chapters": [9, 12]
+    },
+    {
+      "chapter": 7,
+      "event": "FS007钱三的预知埋设（'但我觉得你不一样'）",
+      "type": "伏笔",
+      "callback_chapters": [42, 170]
+    },
+    {
+      "chapter": 8,
+      "event": "面板环境扫描信息差（源质浓度3.7倍+诡异分布标记）",
+      "type": "爽点",
+      "sub_type": "微爽点"
+    },
+    {
+      "chapter": 8,
+      "event": "面板诡异分布实时更新绕行四波D级",
+      "type": "爽点",
+      "sub_type": "微爽点"
+    },
+    {
+      "chapter": 8,
+      "event": "炎父铜灯+布片+血迹发现（废矿深处洞穴）",
+      "type": "伏笔",
+      "callback_chapters": [9, 12, 24]
+    },
+    {
+      "chapter": 8,
+      "event": "肉色苔藓+抓痕+指甲（克苏鲁氛围铺垫）",
+      "type": "设定",
+      "callback_chapters": [9]
+    },
+    {
+      "chapter": 8,
+      "event": "矿婴C+级出现（逃跑率0%，章末危机钩）",
+      "type": "危机",
+      "callback_chapters": [9]
+    },
+    {
+      "chapter": 9,
+      "event": "越级击杀矿婴C+级（S级结算）",
+      "type": "爽点",
+      "sub_type": "S级",
+      "format_variant": "标准结算",
+      "callback_chapters": [10, 52]
+    },
+    {
+      "chapter": 9,
+      "event": "双生境界激活（灵械凡械→铜械+诡术士染诡→驭诡同步进化）",
+      "type": "里程碑",
+      "callback_chapters": [10, 52]
+    },
+    {
+      "chapter": 9,
+      "event": "隐藏成就·以弱胜强（永久属性+5%）",
+      "type": "爽点",
+      "sub_type": "隐藏成就",
+      "callback_chapters": [10]
+    },
+    {
+      "chapter": 9,
+      "event": "碎片·柒集成（天道功能：感知）",
+      "type": "里程碑",
+      "callback_chapters": [48, 168]
+    },
+    {
+      "chapter": 9,
+      "event": "天道崩碎画面（碎片中心有人在笑）",
+      "type": "伏笔",
+      "callback_chapters": [30, 48, 75, 170]
+    },
+    {
+      "chapter": 9,
+      "event": "畸变率3%→5%（碎片集成+2%）",
+      "type": "危机",
+      "callback_chapters": [11, 15]
+    },
+    {
+      "chapter": 10,
+      "event": "合同思维（口头协议4条款，穿越者契约精神信息差）",
+      "type": "爽点",
+      "sub_type": "微爽点",
+      "callback_chapters": [19, 52]
+    },
+    {
+      "chapter": 10,
+      "event": "主线任务完成（灵石×100翻倍+商盟铜牌+基础灵械操控术）",
+      "type": "爽点",
+      "sub_type": "微爽点",
+      "format_variant": "标准结算",
+      "callback_chapters": []
+    },
+    {
+      "chapter": 10,
+      "event": "双生碾压铜械级修习者（一招拆义肢关节）",
+      "type": "爽点",
+      "sub_type": "打脸",
+      "callback_chapters": [52]
+    },
+    {
+      "chapter": 10,
+      "event": "双面模式解锁（灵械白天/诡术士夜晚）",
+      "type": "里程碑",
+      "callback_chapters": [11, 16]
+    },
+    {
+      "chapter": 10,
+      "event": "逆鸣进度5/100（击杀100只条件揭示）",
+      "type": "悬念",
+      "callback_chapters": [11, 17, 18]
+    },
+    {
+      "chapter": 11,
+      "event": "食残诡击杀C级结算（逆鸣进度6/100）",
+      "type": "爽点",
+      "sub_type": "微爽点",
+      "format_variant": "标准结算",
+      "callback_chapters": [17, 18]
+    },
+    {
+      "chapter": 11,
+      "event": "面板扫描商铺捡漏（灰白结晶28灵石vs报价3灵石，加工场伪装涂层）",
+      "type": "爽点",
+      "sub_type": "微爽点",
+      "callback_chapters": [15, 19]
+    },
+    {
+      "chapter": 11,
+      "event": "模式切换测试（6次切换+0.3%畸变率，单日上限8次建议）",
+      "type": "设定",
+      "callback_chapters": [17, 27]
+    },
+    {
+      "chapter": 11,
+      "event": "支线任务触发（黑市材料鉴定3/5+诡异材料扫描47/200）",
+      "type": "任务",
+      "callback_chapters": [16]
+    },
+    {
+      "chapter": 11,
+      "event": "黑市外围诡异密度下降23%，猎场枯竭",
+      "type": "危机",
+      "callback_chapters": [16, 17]
+    },
+    {
+      "chapter": 11,
+      "event": "城东废弃泵站猎场发现（回声诡D+级，精神攻击型）",
+      "type": "信息",
+      "callback_chapters": [17, 18]
+    },
+    {
+      "chapter": 11,
+      "event": "畸变率5%→5.5%（模式切换+猎杀双重催化，死循环揭示）",
+      "type": "危机",
+      "callback_chapters": [15, 17, 27]
+    },
+    {
+      "chapter": 12,
+      "event": "净化税缴纳60灵石（灵石190→130）",
+      "type": "经济",
+      "callback_chapters": []
+    },
+    {
+      "chapter": 12,
+      "event": "面板扫描马六感染率7%（选择不说）",
       "type": "设定",
       "callback_chapters": [20]
     },
     {
-      "chapter": 2,
-      "event": "双重死线揭示（净化税+寄生体）",
+      "chapter": 12,
+      "event": "铜铃婆透露炎父死前去过废矿区+整理暗格",
+      "type": "伏笔",
+      "callback_chapters": [24, 25]
+    },
+    {
+      "chapter": 12,
+      "event": "旧宅书房被翻（FS006灭口者与搜查者维护）",
+      "type": "伏笔",
+      "callback_chapters": [24]
+    },
+    {
+      "chapter": 12,
+      "event": "UF-01揭示：父亲信件'如果你只看到了账册……那说明我已经被他们杀了'",
+      "type": "伏笔",
+      "callback_chapters": [24, 36]
+    },
+    {
+      "chapter": 12,
+      "event": "父亲暗格中发现信件（甲七巷十七号后院井底线索）",
+      "type": "信息",
+      "callback_chapters": [24]
+    },
+    {
+      "chapter": 13,
+      "event": "面板扫描巡检卫发现22%寄生感染（信息差碾压+扮猪吃老虎）",
+      "type": "爽点",
+      "sub_type": "微爽点"
+    },
+    {
+      "chapter": 13,
+      "event": "寄生体X-7同源发现（炎冬与巡检卫寄生体同一培养批次）",
+      "type": "伏笔",
+      "callback_chapters": [24, 37]
+    },
+    {
+      "chapter": 13,
+      "event": "面纱客源质与寄生体关联（FS006扩展）",
+      "type": "伏笔",
+      "callback_chapters": [24]
+    },
+    {
+      "chapter": 13,
+      "event": "厕所危机（巡检卫被三句话吓跑）",
+      "type": "爽点",
+      "sub_type": "微爽点"
+    },
+    {
+      "chapter": 14,
+      "event": "诡面纱双重遮蔽碾压四人巡检（信息差微爽点）",
+      "type": "爽点",
+      "sub_type": "微爽点"
+    },
+    {
+      "chapter": 14,
+      "event": "面纱到期绕小路脱身（黑色幽默：铜骨臂甲卡管蹭一身锈）",
+      "type": "爽点",
+      "sub_type": "微爽点"
+    },
+    {
+      "chapter": 14,
+      "event": "极乐诡修会徽记二次发现（两单货物均流向S级通缉组织）",
+      "type": "伏笔",
+      "callback_chapters": [19, 25]
+    },
+    {
+      "chapter": 14,
+      "event": "三线汇城西（寄生体+极乐诡修会+城西加工场关联确认）",
+      "type": "信息",
+      "callback_chapters": [19, 24, 26]
+    },
+    {
+      "chapter": 14,
+      "event": "灵石135→185（+50运送报酬）",
+      "type": "经济",
+      "callback_chapters": []
+    },
+    {
+      "chapter": 15,
+      "event": "废弃泵站猎杀（食残诡×3+管蛭×2+回声诡×1，逆鸣进度12/100）",
+      "type": "战斗",
+      "callback_chapters": []
+    },
+    {
+      "chapter": 15,
+      "event": "越级击杀铜骨尸A级（S级结算，环境战术：蒸汽阀软化铜壳）",
+      "type": "爽点",
+      "sub_type": "S级",
+      "format_variant": "标准结算",
+      "callback_chapters": [52]
+    },
+    {
+      "chapter": 15,
+      "event": "铜骨臂甲升级组件获取（灵械+诡异双属性，双生契合度10%→15%）",
+      "type": "物品",
+      "callback_chapters": [16, 17]
+    },
+    {
+      "chapter": 15,
+      "event": "人造诡异揭示（铜骨尸源质标记：商盟加工场出厂编号#0037）",
+      "type": "伏笔",
+      "callback_chapters": [19, 24, 26, 37]
+    },
+    {
+      "chapter": 15,
+      "event": "灵石185→235（+50击杀奖励）",
+      "type": "经济",
+      "callback_chapters": []
+    },
+    {
+      "chapter": 16,
+      "event": "铜骨臂甲升级为灵诡模式（双模式无缝切换，延迟0.1秒，畸变率无影响）",
+      "type": "里程碑",
+      "callback_chapters": [17, 18]
+    },
+    {
+      "chapter": 16,
+      "event": "甲七巷十七号井底发现父亲第二份遗物（源质净化实验记录+铜牌+纸条）",
+      "type": "伏笔",
+      "callback_chapters": [19, 24]
+    },
+    {
+      "chapter": 16,
+      "event": "父亲纸条'去找钱三'（第二次遗物提到钱三）",
+      "type": "伏笔",
+      "callback_chapters": [19, 24]
+    },
+    {
+      "chapter": 16,
+      "event": "铜牌符号与商盟齿轮徽记相似（伏笔暗示）",
+      "type": "伏笔",
+      "callback_chapters": [19, 25]
+    },
+    {
+      "chapter": 16,
+      "event": "日常任务完成（食残诡×5，C级×5）",
+      "type": "爽点",
+      "sub_type": "微爽点",
+      "format_variant": "标准结算"
+    },
+    {
+      "chapter": 16,
+      "event": "双模式联动实战验证（切换畸变率+0%，战斗力接近银械级）",
+      "type": "里程碑",
+      "callback_chapters": [17, 18, 52]
+    },
+    {
+      "chapter": 16,
+      "event": "灵石235→275（+40：击杀25+日常任务15）",
+      "type": "经济",
+      "callback_chapters": []
+    },
+    {
+      "chapter": 17,
+      "event": "首次夜猎——管蛭诡×3+回声诡×1+食残诡×2，D级×5+C级×1",
+      "type": "战斗",
+      "callback_chapters": [18]
+    },
+    {
+      "chapter": 17,
+      "event": "回声诡击杀C级结算（回声结晶·精神力防御+3%）",
+      "type": "爽点",
+      "sub_type": "C级",
+      "format_variant": "标准结算",
+      "callback_chapters": []
+    },
+    {
+      "chapter": 17,
+      "event": "城西源质波动与管蛭诡73%相似度（同源暗示）",
+      "type": "伏笔",
+      "callback_chapters": [19, 24, 26]
+    },
+    {
+      "chapter": 17,
+      "event": "灵石275→324（+49：管蛭24+回声15+食残10）",
+      "type": "经济",
+      "callback_chapters": []
+    },
+    {
+      "chapter": 17,
+      "event": "精神力78%→70%（回声诡精神冲击-8%）",
+      "type": "设定",
+      "callback_chapters": []
+    },
+    {
+      "chapter": 18,
+      "event": "连续夜猎（食残诡×6+管蛭诡×1+回声诡×1，D级×7+C级×1）",
+      "type": "战斗",
+      "callback_chapters": [19]
+    },
+    {
+      "chapter": 18,
+      "event": "回声诡击杀C级结算（灵石×15，逆鸣进度29/100）",
+      "type": "爽点",
+      "sub_type": "C级",
+      "format_variant": "标准结算",
+      "callback_chapters": []
+    },
+    {
+      "chapter": 18,
+      "event": "黑市掮客打脸（面板揭穿加工场源质残留68%+疤痕来源）",
+      "type": "爽点",
+      "sub_type": "打脸",
+      "callback_chapters": [19, 24]
+    },
+    {
+      "chapter": 18,
+      "event": "掮客逃往城西加工场方向（威胁等级低→中）",
       "type": "危机",
-      "callback_chapters": [6, 12, 27]
+      "callback_chapters": [19, 24]
+    },
+    {
+      "chapter": 18,
+      "event": "灵石324→377（+53：食残30+管蛭8+回声15）",
+      "type": "经济",
+      "callback_chapters": []
+    },
+    {
+      "chapter": 18,
+      "event": "逆鸣进度25→33/100（连续猎杀推进）",
+      "type": "进度",
+      "callback_chapters": [19]
     }
   ]
 }
